@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shubham Pandey
-- 👀 I’m interested in Data Analysis, Visualization, Data Science, Machine Learning and AI
-- 🌱 I’m currently working as an Associate Data Analyst
-- 💞️ I’m looking to collaborate on Machine Learning Algorithms
+- 👀 I’m interested in Frontend Development, Data Analysis and Machine Learning
 - 📫 How to reach me pandeyxvii@gmail.com
 
 <!---
