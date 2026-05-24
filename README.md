@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham Pandey
-- 👀 I’m interested in Frontend Development, Data Analysis and Machine Learning
+- 👀 I’m interested in Frontend Development and Data Analysis 
 - 📫 How to reach me pandeyxvii@gmail.com
 
 <!---
